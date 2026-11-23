@@ -99,6 +99,8 @@ int month=7;
 }      
 }     
 -------------------------------------------------------------------------------
+operator
+---------------
 1)unary :-i++,++i,i--,--i
 
 5%2=1
@@ -109,5 +111,36 @@ i)arithmatic :- +,-,*,/,%(modules)
 ii)comparative :- <,>,<=,>=
 iii)assignment :- =,!=
 iv)bitwise :- >>,<<
+
+
 3)ternary :- :,?
 ---------------------------------------------------------------------------
+write an algorithm to enter a number of a week and it will display the day
+1.sunday  2.monday....... 
+
+int weekday=4;      
+    String weekString="";    
+      switch(weekday){      
+    case 1: weekString="1 - sunday";    
+    break;      
+    case 2: weekString="2 - Monday";    
+    break;      
+    case 3: weekString="3 - Tuesday";    
+    break;      
+    case 4:weekString="4 - Wednesday";    
+    break;      
+    case 5: weekString="5 - Thursday";    
+    break;      
+    case 6: weekString="6 - Friday";    
+    break;      
+    case 7: weekString="7 - Saturday";    
+    break;      
+default:print("invalid input");
+----------------------------------------------------------
+
+
+
+
+
+
+
