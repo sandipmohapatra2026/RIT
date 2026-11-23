@@ -136,7 +136,30 @@ int weekday=4;
     case 7: weekString="7 - Saturday";    
     break;      
 default:print("invalid input");
-----------------------------------------------------------
+------------------------------------------------------------------------------------
+write a algorithm to display the character is a vowel or consonant
+--------------------------------------------------------------------------------------
+char x='a'
+switch(x)
+case 'a':
+case 'e':
+case 'i':
+case 'o':
+case 'u':print("vowel");
+break;
+default:print("Consonent");
+---------------------------------------------------------------
+5 numbers find sum and average
+----------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
 
