@@ -1,3 +1,6 @@
+https://github.com/sandipmohapatra2026/RIT
+------------------------------------------------------------
+
 what is a programming language:-
 -----------------------------------------------------
 before writing a program we have to build a logic.
@@ -18,6 +21,13 @@ Algorithm
 
 -----------------------------------------------------------------
 wap to compare 2 numbers and find the greatest 
-
-
+1. Start
+2. Input two numbers: A and B
+3.Compare A with B
+	• If A >= B  then A is the largest.
+4.Otherwise:
+	• B is the largest.
+5. Print the largest number.
+6. Stop
+----------------------------------------------------------------
 
