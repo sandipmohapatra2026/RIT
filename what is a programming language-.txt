@@ -1,0 +1,23 @@
+what is a programming language:-
+-----------------------------------------------------
+before writing a program we have to build a logic.
+write a logic to find the greatest of three numbers
+
+Algorithm
+
+1. Start
+2. Input three numbers: A, B, and C.
+3. Compare A with B and C:
+	• If A >= B and A >= C, then A is the largest.
+4. Compare B with A and C:
+	• Else if B >= A and B >= C, then B is the largest.
+5. Otherwise:
+	• C is the largest.
+6. Print the largest number.
+7. Stop
+
+-----------------------------------------------------------------
+wap to compare 2 numbers and find the greatest 
+
+
+
